@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyMicrosoftSyncAdapter</string>
+
+    <string name="auth_token_type_full_access">com.sixthsolution.ms_calendar_access</string>
+    <string name="ms_authenticator_label">Microsoft Account</string>
+
+    <string name="display_name_title">Enter a Display name</string>
+    <string name="display_name_hint">display name</string>
+    <string name="display_name_ok">Ok</string>
+</resources>
